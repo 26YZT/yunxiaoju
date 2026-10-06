@@ -1,0 +1,60 @@
+# Local editor / machine state
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.codex/
+.agents/
+.claude/
+.aws/
+.ssh/
+dev/
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+!.env.sample
+**/config.yaml
+**/config.yaml.*
+!**/config.yaml.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Dependencies and build output
+node_modules/
+.next/
+out/
+build/
+dist/
+.venv*/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+coverage/
+*.tsbuildinfo
+next-env.d.ts
+
+# Generated media, user projects and logs
+xiaoyunque/xiaoyunque/backend/code/
+xiaoyunque/xiaoyunque/backend/code.bak/
+xiaoyunque/xiaoyunque/backend/temp/
+logs/
+*.log
+*.zip
+*.tar.gz
+
+# Independent legacy research archive (not part of the running app)
+/FilmAgent/
+/FilmAgent-pics/
+/xiaoyunque-pics/
+
+# Local-only analysis and working documents
+/AI产品Vibe Coding通用前端技术栈手册.md
+/项目分析与运行报告.md
+/design-qa.md
+/docs/*.html

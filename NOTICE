@@ -1,0 +1,19 @@
+YunXiaoJu / 云小剧
+
+This project is a derivative of the supplied XiaoYunQue / Video-Claw
+application source. Its original MIT license and copyright notices are
+retained in LICENSE:
+
+Copyright (c) 2026 Video-Claw / FilmAgent (https://github.com/HITsz-TMG/FilmAgent)
+Copyright (c) 2026 XiaoYunQue (Innate Labs)
+
+The supplied source attributes XiaoYunQue to Innate Labs. The related
+HITsz-TMG repository is available at https://github.com/HITsz-TMG/VideoClaw.
+
+Changes in this distribution include the YunXiaoJu name, an original cloud
+mark, the dark frontend design, shared UI components, and related interface
+refinements. This distribution is not an official release of those upstream
+projects.
+
+The separate legacy FilmAgent research archive is not included. Third-party
+libraries and model services retain their respective licenses and terms.
